@@ -1,26 +1,10 @@
 {
   "name": "LoyaltyAM",
   "symbol": "LTAM",
-  "seller_fee_basis_points": 500,  // 5% Verkaufsgebühr
-  "fee_recipient": "DrMT9mAH1qSu4tV6jFjQmxkCvqK5BakJSmJ9t3yCTyC3",  // Hier deine Solana-Adresse einfügen
-  "seller_fee_collection_address": "DrMT9mAH1qSu4tV6jFjQmxkCvqK5BakJSmJ9t3yCTyC3",  // Hier deine Solana-Adresse einfügen
-  "image": "https://github.com/AMT-777/crypto/blob/main/LOGO%20(2).png",  // Link zu einem Bild für deinen Token
-  "seller_fee_burn_address": null,
-  "properties": {
-    "files": [
-      {
-        
-        "type": "text/plain"
-      }
-    ],
-    "category": "digital",
-    "creators": [
-      {
-        "address": "DrMT9mAH1qSu4tV6jFjQmxkCvqK5BakJSmJ9t3yCTyC3",  // Hier deine Solana-Adresse einfügen
-        "share": 100
-      }
-    ]
-  }
+  "seller_fee_basis_points": 500,  
+  "description": "Loyalty Token.",  
+  "image": "https://github.com/AMT-777/crypto/blob/main/LOGO%20(2).png"
 }
+
 
 
