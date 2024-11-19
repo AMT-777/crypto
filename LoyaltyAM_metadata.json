@@ -1,7 +1,6 @@
 {
   "name": "LoyaltyAM",
   "symbol": "LTAM",
-  "seller_fee_basis_points": 500,  
   "description": "Loyalty Token.",  
   "image": "https://github.com/AMT-777/crypto/blob/main/LOGO%20(2).png"
 }
